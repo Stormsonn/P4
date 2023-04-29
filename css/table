@@ -1,0 +1,37 @@
+table.table1 {
+			float: left;
+			margin-bottom: 200px;
+			margin-left: 0px;
+			border-collapse: collapse;
+			width: 300px;
+		}
+table.table1 th,td {
+			border: 1px solid black;
+			padding: 5px;
+			text-align: center;
+		}
+table.table1 th{
+			background-color: #ffff33;
+		}
+table.table1 td {
+			background-color: #feffe1;
+		}
+
+table.table2 {
+			float: right;
+			margin-bottom: 200px;
+			margin-left: 0px;
+			border-collapse: collapse;
+			width: 300px;
+		}
+table.table2 th,td {
+			border: 1px solid black;
+			padding: 5px;
+			text-align: center;
+		}
+table.table2 th{
+			background-color: #ff0000;
+		}
+table.table2 td {
+			background-color: #feffe1;
+		}
